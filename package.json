@@ -1,0 +1,11 @@
+{
+  "name": "godot-tip-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "github.com/Choco02",
+  "dependencies": {
+    "socket.io-client": "^4.7.4",
+    "ws": "^8.16.0"
+  }
+}
